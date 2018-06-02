@@ -2,6 +2,9 @@
 
 ==Rossum's Original Band of Tubas (R.O.B.O.T)==
 
-[[File:static/R.O.B.O.T.png|200px]]
+
+{| style="width:200px; border:5px solid blue;"
+|[[Image:static/R.O.B.O.R.jpf|190px]]
+|}
 
 
