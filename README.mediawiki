@@ -13,6 +13,6 @@
 * <a href="https://github.com/vishnubob/python-midi">python-midi</a> - python library for processing midi
 
 python-midi requires alsa header files: install by<br> 
-<font face="Courier">>sudo apt install libasound2-dev</font><br>
+<span style="font-family:Courier;">>sudo apt install libasound2-dev</span><br>
 then in python-midi,<br> 
-<font face="Courier">>python setup.py install</font>
+<span style="font-family:Courier;">>python setup.py install</span>
