@@ -12,7 +12,7 @@
 * <a href="http://www.alsa.ma/">ALSA</a> Advanced Linux Sound Architecture - required for MIDI sequencer
 * <a href="https://github.com/vishnubob/python-midi">python-midi</a> - python library for processing midi
 
-python-midi requires alsa header files: install by 
->sudo apt install libasound2-dev
-then in python-midi, 
->python setup.py install
+python-midi requires alsa header files: install by<br> 
+<font face="Courier">>sudo apt install libasound2-dev</font><br>
+then in python-midi,<br> 
+<font face="Courier">>python setup.py install</font>
