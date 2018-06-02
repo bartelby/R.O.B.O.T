@@ -4,7 +4,7 @@
 
 
 {| style="width:200px; border:5px solid blue;"
-|[[Image:static/R.O.B.O.T.jpg|190px]]
+|[[Image:bbam/static/R.O.B.O.T.jpg|190px]]
 |}
 
 === Dependencies ===
@@ -14,3 +14,5 @@
 
 python-midi requires alsa header files: install by 
 >sudo apt install libasound2-dev
+then in python-midi, 
+>python setup.py install
