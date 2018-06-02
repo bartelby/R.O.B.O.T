@@ -4,7 +4,7 @@
 
 
 {| style="width:200px; border:5px solid blue;"
-|[[Image:static/R.O.B.O.R.jpg|190px]]
+|[[Image:static/R.O.B.O.T.jpg|190px]]
 |}
 
 
