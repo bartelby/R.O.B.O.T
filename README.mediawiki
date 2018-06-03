@@ -2,8 +2,7 @@
 
 ==Rossum's Original Band of Tubas (R.O.B.O.T)==
 
-
-[[Image:bbam/static/medium_robot.jpg]]
+[[Image:bbam/static/colored_robot.jpg]]
 
 === Dependencies ===
 * <a href="http://www.swig.org/">SWIG</a> Compiles C code and creates python wrapper
