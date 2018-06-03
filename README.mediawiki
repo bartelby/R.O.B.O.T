@@ -9,6 +9,8 @@
 * <a href="https://www.alsa-project.org">ALSA</a> Advanced Linux Sound Architecture - required for MIDI sequencer
 * <a href="https://github.com/vishnubob/python-midi">python-midi</a> - python library for processing midi
 
+Install virtualenv & virtualenvwrapper using apt-get.  See <a href="http://exponential.io/blog/2015/02/10/install-virtualenv-and-virtualenvwrapper-on-ubuntu/">this</a> for instructions on installing and using virtual environments.  Create a virtual environment on your device and activate it before continuing..
+
 python-midi requires alsa header files: install by<br> 
 <span style="font-family:Courier;">>sudo apt install libasound2-dev</span><br>
 then in python-midi,<br> 
