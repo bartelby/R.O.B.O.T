@@ -7,7 +7,7 @@
 
 === Dependencies ===
 * <a href="http://www.swig.org/">SWIG</a> Compiles C code and creates python wrapper
-* <a href="http://www.alsa.ma/">ALSA</a> Advanced Linux Sound Architecture - required for MIDI sequencer
+* <a href="https://www.alsa-project.org">ALSA</a> Advanced Linux Sound Architecture - required for MIDI sequencer
 * <a href="https://github.com/vishnubob/python-midi">python-midi</a> - python library for processing midi
 
 python-midi requires alsa header files: install by<br> 
