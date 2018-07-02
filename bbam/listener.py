@@ -41,7 +41,7 @@ def record(filename):
             print "S:omething's All Fucked Up."
 
 if __name__ == '__main__':
-    if len(sys.argv) > 2:
+    if len(sys.argv) < 2:
         print "Enter the name of your piece"
     else:
         filename = sys.argv[1]
