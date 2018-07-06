@@ -1,6 +1,7 @@
 import midi
 from midi import sequencer
 import sys
+import serial
 
 CLIENT = 20
 PORT   = 0
